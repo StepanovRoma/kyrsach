@@ -1,0 +1,2 @@
+F:\Лабы\Projecttest\x64\Debug\Projecttest.exe
+F:\Лабы\Projecttest\x64\Debug\Projecttest.pdb

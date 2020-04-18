@@ -1,0 +1,5 @@
+﻿  Source.cpp
+F:\Лабы\Projecttest\Source.cpp(108,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\Лабы\Projecttest\Source.cpp(148,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Лабы\Projecttest\Source.cpp(148,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Projecttest.vcxproj -> F:\Лабы\Projecttest\x64\Debug\Projecttest.exe
